@@ -1,5 +1,5 @@
 # cursogoogle
 repository for google course
 
-I am editting the README file. Adding some more details about the
+3 I am editting the README file. Adding some more details about the
 project description again.
